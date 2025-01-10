@@ -37,4 +37,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjf23&show_icons=true&locale=en&layout=compact" alt="kennethjf23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennethjf23&" alt="kennethjf23" /></p>
