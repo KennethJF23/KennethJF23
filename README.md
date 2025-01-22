@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Any Interesting Projects involving Recat**
+- 👯 I’m looking to collaborate on **Any Interesting Projects involving React**
 
 - 🤝 I’m looking for help with **Portfolio Designs**
 
