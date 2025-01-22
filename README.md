@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KennethJF23](https://github.com/KennethJF23)
 
-- 📝 I regularly write articles on [none](none)
-
 - 💬 Ask me about **C++,React,Java,Python,MySql,C,JS,Data Science**
 
 - 📫 How to reach me **kennethfernandes113@gmail.com**
