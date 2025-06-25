@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenneth Jerome Fernandes</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img src="https://streak-stats.demolab.com?user=KennethJF23&theme=default&hide_border=true" alt="KennethJF23's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=KennethJF23&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="KennethJF23's GitHub Stats" />
 
 
 - 🔭 I’m currently working on **E Commerce Website**
