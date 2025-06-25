@@ -36,6 +36,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjf23&show_icons=true&locale=en&layout=compact" alt="kennethjf23" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/KennethJF23/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KennethJF23/KennethJF23/output/snake.svg" alt="Snake animation" />
 
 
