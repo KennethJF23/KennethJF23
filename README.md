@@ -6,8 +6,6 @@
 </div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennethjf23" alt="kennethjf23" /></a> </p>
-
 - 🔭 I’m currently working on **E Commerce Website**
 
 - 🌱 I’m currently learning **Data Science**
