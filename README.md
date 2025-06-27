@@ -80,7 +80,7 @@
 
 - 📫 How to reach me **kennethfernandes113@gmail.com**
 
-- 📄 Know about my experiences [Fresher](Fresher)
+- 📄 Know about my experiences [Work](https://www.linkedin.com/in/kenneth-fernandes-2b7b8b311/)
 
 - ⚡ Fun fact **100% is not 100% but more than 100% is 100%**
 
