@@ -74,7 +74,7 @@
 
 - 🤝 I’m looking for help with **Data science processing for models**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KennethJF23](https://github.com/KennethJF23)
+- 👨‍💻 All of my projects are available at [https://github.com/KennethJF23](https://github.com/KennethJF23?tab=repositories)
 
 - 💬 Ask me about **C++,React,Java,Python,MySql,C,JS,Data Science**
 
