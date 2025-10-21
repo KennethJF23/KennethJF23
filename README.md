@@ -102,7 +102,7 @@ Python   3 hrs 58 mins    ██████████████████
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/KennethJF23.KennethJF23.svg)
 <br/>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KennethJF23/KennethJF23/output/snake.svg" alt="Snake animation" />
 
 
 
