@@ -66,7 +66,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **E Commerce Website**
+- 🔭 I’m currently working on **Chat-App**
 
 - 🌱 I’m currently learning **Data Science**
 
