@@ -13,14 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate trophy
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create trophy SVG
         run: |
-          curl -o trophy.svg "https://github-profile-trophy.vercel.app/?username=KennethJF23&theme=radical&no-frame=false&no-bg=true&margin-w=4"
+          mkdir dist
+          curl -L "https://github-profile-trophy.vercel.app/?username=KennethJF23&theme=radical&no-frame=false&no-bg=true&margin-w=4" -o dist/trophy.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
