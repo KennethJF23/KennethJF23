@@ -93,7 +93,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 ## 🏆 GitHub Trophies
-<img src="https://raw.githubusercontent.com/KennethJF23/KennethJF23/output/trophy.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=KennethJF23&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 <!--START_SECTION:waka-->
 
 ```text
