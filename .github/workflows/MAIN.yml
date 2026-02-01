@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: KennethJF23
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?palette=github-dark
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
