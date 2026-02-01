@@ -102,6 +102,7 @@ Python   3 hrs 58 mins    ██████████████████
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/KennethJF23.KennethJF23.svg)
 
+![snake gif](https://github.com/KennethJF23/RepoName/blob/output/github-contribution-grid-snake.gif)
 
 
 
