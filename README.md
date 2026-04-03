@@ -1,6 +1,7 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Kenneth+Fernandes;Competitive+Programmer..;EX+Data+Science+Intern;1400+Contest+Rating....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Kenneth+Fernandes;Competitive+Programmer..;EX+Data+Science+Intern;1400+Contest+Rating....&center=true"></a>
+</p>
     
 # 🖥️ Technical Skills: 
 <p align="left">
@@ -92,8 +93,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kennethjf23&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=KennethJF23&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KennethJF23&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KennethJF23&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KennethJF23&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KennethJF23&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KennethJF23&theme=2077&utcOffset=8)
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -101,11 +106,7 @@ Python   3 hrs 58 mins    ██████████████████
 ```
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/KennethJF23.KennethJF23.svg)
-
 ![snake gif](https://raw.githubusercontent.com/KennethJF23/KennethJF23/output/github-contribution-grid-snake.gif)
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
